@@ -26,7 +26,7 @@ def send_ip_to_discord_webhook(webhook_url, ip_address):
 
 if __name__ == "__main__":
     # Replace "YOUR_DISCORD_WEBHOOK_URL" with your actual Discord webhook URL
-    webhook_url = "https://discord.com/api/webhooks/1186667780615975113/UUy48ocvN51uMhfvaRyq5Q9mJiIIFeWd1qMTvLyUixa_iZW9JGVgmsm6RbI4KoVPq4jm"
+    webhook_url = "YOUR_DISCORD_WEBHOOK_URL"
 
     # Get the public IP address of the machine
     ip_address = get_public_ip()
