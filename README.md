@@ -1,4 +1,4 @@
-# This script is made by DarkkyMoonikk 💹
+# This script is made by DarkkyMoonikk ✅
 # For educational purposes only! ❗
 
 How to easily pull ips with this simple script
