@@ -1,8 +1,7 @@
 # This script is made by DarkkyMoonikk ✅
 # For educational purposes only! ❗
 
-How to easily pull ips with this simple script
-Just paste your webhook and enjoy ips.
+This is example script how someone can get ur ip that can be used for any reason!
 
 For better hide you can use PyArmor
 - pyarmor gen (name of the script)[ip.py]
